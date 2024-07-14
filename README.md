@@ -18,10 +18,7 @@ The "quizzes" folder is used for keeping actual quizzes in JSON format.
 ### Installation
 
 1. **Clone this repository**
- ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
- ```
+
 2. **Install dependencies**
  ```bash
 
