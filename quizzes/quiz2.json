@@ -1,0 +1,78 @@
+{
+  "id": 12,
+  "title": "System of Linear Equations",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "Solve the system of equations: <math xmlns='http://www.w3.org/1998/Math/MathML'><mrow><mtable columnalign='right left'><mtr><mtd>2x + 3y = 8</mtd></mtr><mtr><mtd>x - y = -1</mtd></mtr></mtable></mrow></math>",
+      "options": [
+        {
+          "text": "x = 3, y = 2",
+          "value": "a"
+        },
+        {
+          "text": "x = 1, y = 2",
+          "value": "b"
+        },
+        {
+          "text": "x = 2, y = 2",
+          "value": "c"
+        },
+        {
+          "text": "x = 4, y = 0",
+          "value": "d"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Solving the equations simultaneously, we get x = 1 and y = 2."
+    },
+    {
+      "id": 2,
+      "prompt": "Find roots of equations: <math xmlns='http://www.w3.org/1998/Math/MathML'><mrow><mtable columnalign='right left'><mtr><mtd>4n - 2m = 6</mtd></mtr><mtr><mtd>2n + m = 1</mtd></mtr></mtable></mrow></math>",
+      "options": [
+        {
+          "text": "n = 1, m = 1",
+          "value": "a"
+        },
+        {
+          "text": "n = 2, m = -3",
+          "value": "b"
+        },
+        {
+          "text": "n = 1, m = -1",
+          "value": "c"
+        },
+        {
+          "text": "n = -1, m = 3",
+          "value": "d"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Solving the equations simultaneously, we get n = 1 and m = -1."
+    },
+    {
+      "id": 3,
+      "prompt": "Find a and b of equations: <math xmlns='http://www.w3.org/1998/Math/MathML'><mrow><mtable columnalign='right left'><mtr><mtd>3a + 4b = 5</mtd></mtr><mtr><mtd>5a - 2b = 3</mtd></mtr></mtable></mrow></math>",
+      "options": [
+        {
+          "text": "a = 1, b = 1",
+          "value": "a"
+        },
+        {
+          "text": "a = -1, b = 2",
+          "value": "b"
+        },
+        {
+          "text": "a = 2, b = -1",
+          "value": "c"
+        },
+        {
+          "text": "a = 11/13, b = 8/13",
+          "value": "d"
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Solving the equations simultaneously, we get a = 11/13 and b = 8/13."
+    }
+  ]
+}
